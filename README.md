@@ -6,3 +6,5 @@
 WebIDE https://ide.coding.net
 
 Blog https://blog.coding.net
+
+Happy Coding!
